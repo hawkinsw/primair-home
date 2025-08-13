@@ -9,4 +9,4 @@ Prim Air Delivery Corporation proudly serves the world.
 
 A subsidiary of AmazO(n).
 
-More applications coming soon ... try the beta version of our [package tracking application](https://app.primair.delivery/tracker).
+More applications coming soon ... try the beta version of our [package tracking application](https://app.primair.delivery/tracker/).
